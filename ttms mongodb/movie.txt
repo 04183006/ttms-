@@ -1,0 +1,537 @@
+{
+        "_id" : ObjectId("5ea726d920f783bf8f2f7313"),
+        "movieHallNumber" : "01",
+        "movieHallName" : "春暖花开影厅",
+        "movieHallTable" : "25",
+        "movieHallStates" : "等待营业",
+        "movieHallTableList" : [
+                {
+                        "tableNumber" : "01",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "02",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "03",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "04",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "05",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "06",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "07",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "08",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "09",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "10",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "11",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "12",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "13",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "14",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "15",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "16",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "17",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "18",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "19",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "20",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "21",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "22",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "23",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "24",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "25",
+                        "tableHallName" : "春暖花开影厅",
+                        "tableState" : "空闲状态"
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea7274c20f783bf8f2f7314"),
+        "movieHallNumber" : "02",
+        "movieHallName" : "夏日炎炎影厅",
+        "movieHallTable" : "25",
+        "movieHallStates" : "等待营业",
+        "movieHallTableList" : [
+                {
+                        "tableNumber" : "01",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "02",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "03",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "04",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "05",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "06",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "07",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "08",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "09",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "10",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "11",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "12",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "13",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "14",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "15",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "16",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "17",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "18",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "19",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "20",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "21",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "22",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "23",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "24",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "25",
+                        "tableHallName" : "夏日炎炎影厅",
+                        "tableState" : "空闲状态"
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea7277020f783bf8f2f7315"),
+        "movieHallNumber" : "03",
+        "movieHallName" : "秋高气爽影厅",
+        "movieHallTable" : "25",
+        "movieHallStates" : "等待营业",
+        "movieHallTableList" : [
+                {
+                        "tableNumber" : "01",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "02",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "03",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "04",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "05",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "06",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "07",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "08",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "09",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "10",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "11",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "12",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "13",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "14",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "15",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "16",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "17",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "18",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "19",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "20",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "21",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "22",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "23",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "24",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "25",
+                        "tableHallName" : "秋高气爽影厅",
+                        "tableState" : "空闲状态"
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea7279820f783bf8f2f7316"),
+        "movieHallNumber" : "04",
+        "movieHallName" : "冬日温情影厅",
+        "movieHallTable" : "25",
+        "movieHallStates" : "等待营业",
+        "movieHallTableList" : [
+                {
+                        "tableNumber" : "01",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "02",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "03",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "04",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "05",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "06",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "07",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "08",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "09",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "10",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "11",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "12",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "13",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "14",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "15",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "16",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "17",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "18",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "19",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "20",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "21",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "22",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "23",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "24",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                },
+                {
+                        "tableNumber" : "25",
+                        "tableHallName" : "冬日温情影厅",
+                        "tableState" : "空闲状态"
+                }
+        ]
+}
+                                                                                                                                                                                                

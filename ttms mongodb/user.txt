@@ -1,0 +1,5 @@
+{  "username" : "admin", "password" : "123456", "identify" : "系统管理员" }
+{  "username" : "manager_01", "password" : "123456", "identify" : "剧院经理" }
+{  "username" : "ticket_01", "password" : "123456", "identify" : "售票员" }
+
+{  "username" : "xiaokang", "password" : "123456", "identify" : "普通用户" }

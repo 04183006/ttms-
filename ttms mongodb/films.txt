@@ -1,0 +1,94 @@
+{
+        "movieName" : "三傻大闹宝莱坞",
+        "movieDate" : "2020-09-08",
+        "movieDuration" : "183min",
+        "movieHall" : "夏日炎炎影厅",
+        "movieFrom" : "印度",
+        "movieClass" : "搞笑/励志",
+        "movieState" : "正在热映",
+        "movieMoney" : "20",
+        "state" : 1,
+        "ticketList" : 200
+}
+{
+        "movieName" : "哪吒之魔童降世",
+        "movieDate" : "2020-04-04",
+        "movieDuration" : "110min",
+        "movieHall" : "春暖花开影厅",
+        "movieFrom" : "中国",
+        "movieClass" : "动画电影",
+        "movieState" : "正在热映",
+        "movieMoney" : "89.54",
+        "state" : 1,
+        "ticketList" : 200
+}
+{
+        "movieName" : "鬼吹灯之寻龙诀",
+        "movieDate" : "2020-05-04",
+        "movieDuration" : "125min",
+        "movieHall" : "春暖花开影厅",
+        "movieFrom" : "中国",
+        "movieClass" : "冒险/奇幻",
+        "movieState" : "正在热映",
+        "movieMoney" : "30",
+        "state" : 1,
+        "ticketList" : 200
+}
+{
+        "movieName" : "中国合伙人",
+        "movieDate" : "2020-05-20",
+        "movieDuration" : "112min",
+        "movieHall" : "夏日炎炎影厅",
+        "movieFrom" : "中国",
+        "movieClass" : "青春/励志",
+        "movieState" : "已上映",
+        "movieMoney" : "160",
+        "state" : 1,
+        "ticketList" : 200
+}
+{
+        "movieName" : "大话西游之大圣娶亲",
+        "movieDate" : "2020-06-10",
+        "movieDuration" : "105min",
+        "movieHall" : "冬日温情影厅",
+        "movieFrom" : "中国香港",
+        "movieClass" : "爱情/喜剧",
+        "movieState" : "已上映",
+        "movieMoney" : "20",
+        "state" : 1,
+        "ticketList" : 200
+}
+{
+        "movieName" : "西游·降魔篇",
+        "movieDuration" : "89min",
+        "movieDate" : "2020-07-01",
+        "movieHall" : "春暖花开影厅",
+        "movieFrom" : "中国大陆",
+        "movieClass" : "玄幻/搞笑",
+        "movieState" : "正在热映",
+        "movieMoney" : "70",
+        "state" : 1,
+        "ticketList" : 200
+}
+{
+        "movieName" : "战狼",
+        "movieDate" : "------",
+        "movieDuration" : "190min",
+        "movieHall" : "------",
+        "movieClass" : "动画电影",
+        "movieState" : "等待上映",
+        "movieFrom" : "中国",
+        "movieMoney" : "40",
+        "__v" : 0
+}
+{
+        "movieName" : "画皮2",
+        "movieDate" : "------",
+        "movieDuration" : "100min",
+        "movieHall" : "------",
+        "movieClass" : "动画电影",
+        "movieState" : "等待上映",
+        "movieFrom" : "中国",
+        "movieMoney" : "0",
+        "__v" : 0
+}

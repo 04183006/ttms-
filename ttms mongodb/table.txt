@@ -1,0 +1,104 @@
+{
+        "tableNumber" : "A1",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "A2",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "A3",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "A4",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "A5",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "B1",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "B2",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "B3",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "B4",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "B5",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+
+        "tableNumber" : "C1",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+
+        "tableNumber" : "C2",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+
+        "tableNumber" : "C3",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "C4",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "C5",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+
+        "tableNumber" : "D1",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "D2",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "D3",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{
+        "tableNumber" : "D4",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
+{,
+        "tableNumber" : "D5",
+        "tableHallName" : "春暖花开影厅",
+        "tableState" : "ready"
+}
